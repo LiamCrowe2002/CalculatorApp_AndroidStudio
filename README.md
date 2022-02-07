@@ -1,5 +1,6 @@
 # CalculatorApp_AndroidStudio
-This is a calculator app I have built using android studio with Java. and a library folder. In this projects I edited themes.xml, strings.xml, colors.xml, styles.xml, activity_main.xml, MainActivity.java, backspace.xml, btn_rounded_edges.xml. All the button work but i have only shown two images of multiplication working
+This is a calculator app I have built using android studio with Java. and a library folder. In this projects I edited themes.xml, strings.xml, colors.xml, styles.xml, activity_main.xml, MainActivity.java, backspace.xml, btn_rounded_edges.xml. All the button work but i have only shown two images of multiplication working. I did end up removing + / - in th final project.
+
 
 
 ## Language
